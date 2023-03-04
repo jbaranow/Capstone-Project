@@ -1,0 +1,23 @@
+Name: Provision Board
+
+MVP features:
+Random Recipe list
+Users can add/remove to the lists
+Recipes broken down by meal time (breakfast, lunch, dinmer, dessert)
+Comments/Rating
+Recipe has ingredient list
+Maybe: User login
+Maybe: Recipes broken down by protein.
+Maybe: Search
+
+
+To Do:
+1. Create HTML, CSS, and JS files and link together for front end.
+2. Set up server/db for back end.
+3. Build HTML for homepage which will serve as landing after login.
+4. Write JavaScript for Random Recipes.
+5. Add CSS for page styling and buttons.
+5. Write JavaScript for add/remove.
+6. Create other pages for more specifics such as meal time pages or others.
+7. Add any additional features.
+
