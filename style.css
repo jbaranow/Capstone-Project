@@ -27,6 +27,21 @@
   color: white;
 }
 
+    /* working on submit button */
+  /* Style the submit button
+  #search-btn {
+    float: right;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders 
+    cursor: pointer;
+  }
+  */
+
 /* Style the search box inside the navigation bar */
 .topnav input[type=text] {
   float: right;
@@ -48,6 +63,8 @@ input[type=text] {
   input[type=text]:focus {
     width: 20%;
   }
+
+
 
 /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
 @media screen and (max-width: 600px) {
