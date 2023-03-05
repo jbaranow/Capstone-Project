@@ -33,18 +33,18 @@ body {
     background-color: #2196F3;
     color: white;
   }
-
+  /* Style the input container  */
   .topnav .search-container {
     float: right;
   }
   
   /* Style the search box inside the navigation bar */
   .topnav input[type=text] {
-    float: right;
+    /* float: right; */
     padding: 6px;
     border: none;
     margin-top: 8px;
-    margin-right: 16px;
+    /* margin-right: 16px; */
     font-size: 17px;
   }
 
@@ -85,12 +85,12 @@ body {
 
 /* Animated search  */
 input[type=text] {
-    width: 130px;
+    /* width: 130px; */
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
   }
   
   /* When the input field gets focus, change its width to fit content */
   input[type=text]:focus {
-    width: 60%;
+    width: 80%;
   }
