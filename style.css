@@ -94,3 +94,8 @@ input[type=text] {
   input[type=text]:focus {
     width: 80%;
   }
+
+  /* Image Sizing */
+  img {
+    width: 50%;
+  }
